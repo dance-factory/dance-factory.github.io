@@ -1,0 +1,4 @@
+baseurl = "http://dancefactory.fr/"
+languageCode = "fr-FR"
+title = "DANCE Factory"
+defaultLayout = "page"

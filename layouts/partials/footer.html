@@ -1,0 +1,19 @@
+        <script src="/js/jquery-1.12.0.min.js"></script>
+        <script type="text/javascript">
+            $('ul.nav li.dropdown').hover(function () {
+                $(this).find('.dropdown-menu').stop(true, true).delay(50).fadeIn();
+            }, function () {
+                $(this).find('.dropdown-menu').stop(true, true).delay(50).fadeOut();
+            });
+
+            contactForm = $('.contact-form');
+
+            if (contactForm.length) {
+                $('#email').prop('required', true);
+                $('#message').prop('required', true);
+            }
+        </script>
+        <script src="/js/bootstrap.min.js"></script>
+    </body>
+</html>
+
