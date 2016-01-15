@@ -5961,4 +5961,11 @@ ul.polaroids {
   margin-top: 20px;
   margin-bottom: 20px; }
 
+.nav-tabs {
+  margin-top: 20px;
+  margin-bottom: 20px; }
+
+.nav-tabs > .active > a, .nav-tabs > .active > a:hover {
+  outline: none; }
+
 /*# sourceMappingURL=main.css.map */
