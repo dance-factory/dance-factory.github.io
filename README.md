@@ -15,3 +15,6 @@ Development on dev branch, then push public directory on master:
 
     git subtree push --prefix public origin master
     
+In case of push problems with subtree, force with:
+
+    git push origin `git subtree split --prefix public master`:master --force
