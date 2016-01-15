@@ -3,17 +3,17 @@
   
   <url>
     <loc>http://dancefactory.fr/</loc>
-    <lastmod>2016-01-10T17:48:16+01:00</lastmod>
+    <lastmod>2016-01-12T21:00:29+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://dancefactory.fr/page/inscription/</loc>
-    <lastmod>2016-01-10T17:48:16+01:00</lastmod>
+    <loc>http://dancefactory.fr/page/evenements/</loc>
+    <lastmod>2016-01-12T21:00:29+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://dancefactory.fr/page/cours-classique-modern-jazz/</loc>
+    <loc>http://dancefactory.fr/page/cours/</loc>
     <lastmod>2016-01-10T17:47:43+01:00</lastmod>
   </url>
   
@@ -23,17 +23,7 @@
   </url>
   
   <url>
-    <loc>http://dancefactory.fr/page/association/statuts/</loc>
-    <lastmod>2016-01-10T17:47:13+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://dancefactory.fr/page/association/reglement/</loc>
-    <lastmod>2016-01-10T17:47:08+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://dancefactory.fr/page/association/bureau/</loc>
+    <loc>http://dancefactory.fr/page/association/</loc>
     <lastmod>2016-01-10T17:45:54+01:00</lastmod>
   </url>
   
