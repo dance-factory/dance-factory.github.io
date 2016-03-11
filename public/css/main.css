@@ -5972,4 +5972,31 @@ ul.polaroids {
 .video {
   margin: 30px; }
 
+.pquote {
+  text-align: left;
+  width: 220px;
+  background: url(/img/left_quote.png) top left no-repeat;
+  background-size: 80px 80px;
+  color: #312930;
+  font-size: 26px;
+  line-height: 0.9;
+  font-style: italic;
+  padding: 13px; }
+  .pquote .left-quote {
+    float: left; }
+  .pquote .right-quote {
+    float: right; }
+
+blockquote {
+  border: none;
+  margin: 0; }
+  blockquote .by {
+    margin-top: 10px;
+    float: right;
+    font-size: 15px; }
+
+.text-quote:first-letter {
+  font-size: 39px;
+  font-weight: bold; }
+
 /*# sourceMappingURL=main.css.map */
