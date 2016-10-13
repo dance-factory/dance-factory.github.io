@@ -361,6 +361,9 @@
         &lt;div class=&#34;col-md-6&#34;&gt;
             &lt;img class=&#34;img-responsive&#34; src=&#34;http://dancefactory.fr/img/prof.jpg&#34;/&gt;
         &lt;/div&gt;
+        &lt;div class=&#34;col-md-6&#34;&gt;
+            &lt;img class=&#34;img-responsive&#34; src=&#34;http://dancefactory.fr/img/logo-carine.jpg&#34;/&gt;
+        &lt;/div&gt;
     &lt;/div&gt;
     &lt;div id=&#34;reglement&#34; class=&#34;tab-pane&#34;&gt;
         &lt;h2&gt;Le règlement intérieur&lt;/h2&gt;
