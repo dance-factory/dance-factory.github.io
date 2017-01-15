@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on DANCE Factory</title>
-    <link>http://dancefactory.fr/page/</link>
+    <link>http://dancefactory.fr/page/index.xml</link>
     <description>Recent content in Pages on DANCE Factory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
@@ -17,11 +17,18 @@
       <guid>http://dancefactory.fr/page/evenements/</guid>
       <description>&lt;ul class=&#34;col-md-12 nav nav-tabs&#34;&gt;
     &lt;li class=&#34;active dropdown&#34;&gt;
+        &lt;a data-toggle=&#34;dropdown&#34; class=&#34;dropdown-toggle&#34; href=&#34;#&#34;&gt;Saison 2016-2017 &lt;b class=&#34;caret&#34;&gt;&lt;/b&gt;&lt;/a&gt;
+        &lt;ul class=&#34;dropdown-menu&#34;&gt;
+            &lt;li&gt;&lt;a data-toggle=&#34;tab&#34; href=&#34;#stage-dancehall&#34;&gt;Stage dancehall&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a data-toggle=&#34;tab&#34; href=&#34;#kindarena2&#34;&gt;Kindarena&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li class=&#34;dropdown&#34;&gt;
         &lt;a data-toggle=&#34;dropdown&#34; class=&#34;dropdown-toggle&#34; href=&#34;#&#34;&gt;Saison 2015-2016 &lt;b class=&#34;caret&#34;&gt;&lt;/b&gt;&lt;/a&gt;
         &lt;ul class=&#34;dropdown-menu&#34;&gt;
             &lt;li&gt;&lt;a data-toggle=&#34;tab&#34; href=&#34;#cabaret&#34;&gt;Le &lt;s&gt;K&lt;/s&gt;&lt;/a&gt;&lt;/li&gt;
             &lt;li&gt;&lt;a data-toggle=&#34;tab&#34; href=&#34;#rotary-club&#34;&gt;Rotary Club&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a data-toggle=&#34;tab&#34; href=&#34;#kindarena&#34;&gt;Kindarena&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a data-toggle=&#34;tab&#34; href=&#34;#kindarena1&#34;&gt;Kindarena&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/li&gt;
     &lt;li class=&#34;dropdown&#34;&gt;
@@ -37,9 +44,47 @@
     &lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class=&#34;tab-content&#34;&gt;
-    &lt;div id=&#34;kindarena&#34; class=&#34;tab-pane fade&#34;&gt;
+    &lt;div id=&#34;stage-dancehall&#34; class=&#34;tab-pane fade in active&#34;&gt;
+        &lt;h2&gt;Stage dancehall&lt;/h2&gt;
+        &lt;h3&gt;Dimanche 12 mars 2017&lt;/h3&gt;
+        &lt;ul&gt;
+            &lt;li&gt;Horaires : 14h30 à 16h30 (accueil à partir de 14h)&lt;/li&gt;
+            &lt;li&gt;Lieu : Gymnase André Malraux (Gaillon)&lt;/li&gt;
+            &lt;li&gt;Tarif : 10€ (6€ pour les adhérents)&lt;/li&gt;
+            &lt;li&gt;Fiche d&#39;inscription disponible &lt;a href=&#34;http://dancefactory.fr/resources/fiche_inscription_stages_2017.pdf&#34; download=&#34;fiche_inscription_stages_2017.pdf&#34;&gt;ici&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;Places limitées, préinscriptions préférables lors de permanences.
+                La première aura lieu le samedi 28 janvier de 17h à 18h au gymnase André Malraux de Gaillon, dans la salle du premier étage à gauche.&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;Pensez à prendre de l&#39;eau !&lt;/p&gt;
+        &lt;ul class=&#34;polaroids&#34;&gt;
+            &lt;li&gt;&lt;a href=&#34;http://dancefactory.fr/img/saison3/stage-dancehall/oumou.jpg&#34;&gt;&lt;img class=&#34;horizontal&#34;
+                                                                        src=&#34;http://dancefactory.fr/img/saison3/stage-dancehall/oumou.jpg&#34;/&gt;&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;div id=&#34;kindarena2&#34; class=&#34;tab-pane fade&#34;&gt;
         &lt;h2&gt;Kindarena&lt;/h2&gt;
-        &lt;p&gt;Une chorégraphie mêlant danse et kung fu pour cette première participation à la Nuits des Arts Martiaux au
+        &lt;p&gt;Pour sa deuxième participation à la Nuit des Arts Martiaux, DANCE Factory fait rimer Twist avec Kung Fu Panda dans une chorégraphie endiablée !&lt;/p&gt;
+        &lt;ul class=&#34;polaroids&#34;&gt;
+            &lt;li&gt;&lt;a href=&#34;http://dancefactory.fr/img/saison3/kindarena/maelle-sandra.jpg&#34;&gt;&lt;img class=&#34;horizontal&#34;
+                                                                src=&#34;http://dancefactory.fr/img/saison3/kindarena/maelle-sandra.jpg&#34;/&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;http://dancefactory.fr/img/saison3/kindarena/mylene.jpg&#34;&gt;&lt;img class=&#34;horizontal&#34;
+                                                                 src=&#34;http://dancefactory.fr/img/saison3/kindarena/mylene.jpg&#34;/&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;http://dancefactory.fr/img/saison3/kindarena/panda-luc.jpg&#34;&gt;&lt;img class=&#34;horizontal&#34;
+                                                                    src=&#34;http://dancefactory.fr/img/saison3/kindarena/panda-luc.jpg&#34;/&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;http://dancefactory.fr/img/saison3/kindarena/group.jpg&#34;&gt;&lt;img class=&#34;horizontal&#34;
+                                                                src=&#34;http://dancefactory.fr/img/saison3/kindarena/group.jpg&#34;/&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;http://dancefactory.fr/img/saison3/kindarena/lulu-juju.jpg&#34;&gt;&lt;img class=&#34;horizontal&#34;
+                                                                       src=&#34;http://dancefactory.fr/img/saison3/kindarena/lulu-juju.jpg&#34;/&gt;&lt;/a&gt;
+            &lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;http://dancefactory.fr/img/saison3/kindarena/elise.jpg&#34;&gt;&lt;img class=&#34;horizontal&#34;
+                                                                 src=&#34;http://dancefactory.fr/img/saison3/kindarena/elise.jpg&#34;/&gt;&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&#34;http://dancefactory.fr/img/saison3/kindarena/panda-delphine.jpg&#34;&gt;&lt;img class=&#34;horizontal&#34;
+                                                                 src=&#34;http://dancefactory.fr/img/saison3/kindarena/panda-delphine.jpg&#34;/&gt;&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;div id=&#34;kindarena1&#34; class=&#34;tab-pane fade&#34;&gt;
+        &lt;h2&gt;Kindarena&lt;/h2&gt;
+        &lt;p&gt;Une chorégraphie mêlant danse et kung fu pour cette première participation à la Nuit des Arts Martiaux au
             Kindarena de Rouen. Encore merci à Freddy Paillard de nous avoir conviés !&lt;/p&gt;
         &lt;ul class=&#34;polaroids&#34;&gt;
             &lt;li&gt;&lt;a href=&#34;http://dancefactory.fr/img/saison2/kindarena/laque.jpg&#34;&gt;&lt;img class=&#34;horizontal&#34;
@@ -69,7 +114,7 @@
                                                                    src=&#34;http://dancefactory.fr/img/saison2/rotary-club/groupe.jpg&#34;/&gt;&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/div&gt;
-    &lt;div id=&#34;cabaret&#34; class=&#34;tab-pane fade in active&#34;&gt;
+    &lt;div id=&#34;cabaret&#34; class=&#34;tab-pane fade&#34;&gt;
         &lt;h2&gt;Le &lt;s&gt;K&lt;/s&gt;&lt;/h2&gt;
         &lt;p&gt;Deuxième spectacle de l&#39;association, qui a reçu un superbe accueil ! Entrez avec nous dans le monde du cabaret, entre paillettes et plumes !
         &lt;/p&gt;
@@ -206,7 +251,7 @@
 
 &lt;h4&gt;Le samedi de 15H00 à 17H00 : Cours avec Carine.&lt;/h4&gt;
 &lt;p&gt;
-    2h de cours « à la Carine », un style hétéroclite : classique, moderne, lyrical… mais pas seulement ! C&#39;est surtout des rires, des bleus et beaucoup de travail !
+    2h de cours « à la Carine », un style unique, mélangeant classique, moderne, lyrical… mais pas seulement ! C&#39;est surtout des rires, des bleus et beaucoup de travail !
 &lt;/p&gt;
 
 &lt;p&gt;
@@ -228,7 +273,7 @@
 
 &lt;h4 class=&#34;text-info&#34;&gt;Les inscriptions sont ouvertes toute l&#39;année !&lt;/h4&gt;
 
-&lt;p&gt;Fiche d&#39;inscription disponible ici : &lt;a href=&#34;http://dancefactory.fr/resources/fiche_inscription_2016.pdf&#34; download=&#34;fiche_inscription_2016.pdf&#34;&gt;classique/modern jazz&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Fiche d&#39;inscription disponible &lt;a href=&#34;http://dancefactory.fr/resources/fiche_inscription_2016.pdf&#34; download=&#34;fiche_inscription_2016.pdf&#34;&gt;ici&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h4&gt;Prix des cours (ajouter à ça &lt;b&gt;19€&lt;/b&gt; de licence fédérale FFD) :&lt;/h4&gt;
 
@@ -247,7 +292,7 @@
 
 &lt;hr/&gt;
 
-&lt;h4&gt;Calendrier de l&#39;année (à venir...)&lt;/h4&gt;
+&lt;h4&gt;Calendrier de l&#39;année&lt;/h4&gt;
 
 &lt;iframe src=&#34;https://www.google.com/calendar/embed?height=600&amp;amp;wkst=2&amp;amp;hl=fr&amp;amp;bgcolor=%23FFFFFF&amp;amp;src=dancefactory.association%40gmail.com&amp;amp;color=%232952A3&amp;amp;src=fr.french%23holiday%40group.v.calendar.google.com&amp;amp;color=%23125A12&amp;amp;ctz=Europe%2FParis&#34;
         style=&#34; border-width:0 &#34; width=&#34;800&#34; height=&#34;600&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
@@ -285,11 +330,6 @@
 &lt;ul&gt;
     &lt;li&gt;email : &lt;a href=&#34;mailto:dancefactory.association@gmail.com&#34;&gt;dancefactory.association@gmail.com&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;téléphone : 06.33.46.79.95&lt;/li&gt;
-    &lt;li&gt;&lt;p&gt;voie postale (chez la présidente) :&lt;/p&gt;
-        &lt;p&gt;Anne-Sophie RICHARD
-        &lt;br/&gt;39 rue du capitaine Rouveure
-        &lt;br/&gt;27200 Vernon&lt;/p&gt;
-    &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;a class=&#34;text-info&#34; href=&#34;https://www.facebook.com/dancefactory.association&#34;&gt;Rejoignez-nous sur facebook &lt;img src=&#34;http://dancefactory.fr/img/facebook.png&#34;/&gt;&lt;/a&gt;
