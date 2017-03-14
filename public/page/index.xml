@@ -45,7 +45,7 @@
     &lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class=&#34;tab-content&#34;&gt;
-    &lt;div id=&#34;stage-salsa&#34; class=&#34;tab-pane fade&#34;&gt;
+    &lt;div id=&#34;stage-salsa&#34; class=&#34;tab-pane fade in active&#34;&gt;
         &lt;h2&gt;Stage salsa cubaine&lt;/h2&gt;
         &lt;h3&gt;Dimanche 2 avril 2017&lt;/h3&gt;
         &lt;ul&gt;
@@ -62,7 +62,7 @@
                                                                       src=&#34;http://dancefactory.fr/img/saison3/stage-salsa/salsa.jpg&#34;/&gt;&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
     &lt;/div&gt;
-    &lt;div id=&#34;stage-dancehall&#34; class=&#34;tab-pane fade in active&#34;&gt;
+    &lt;div id=&#34;stage-dancehall&#34; class=&#34;tab-pane fade&#34;&gt;
         &lt;h2&gt;Stage dancehall&lt;/h2&gt;
         &lt;h3&gt;Dimanche 12 mars 2017&lt;/h3&gt;
         &lt;ul&gt;
