@@ -22,6 +22,11 @@
   </url>
   
   <url>
+    <loc>http://dancefactory.fr/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dancefactory.fr/</loc>
     <lastmod>2016-01-12T21:00:29+01:00</lastmod>
     <priority>0</priority>
@@ -30,6 +35,11 @@
   <url>
     <loc>http://dancefactory.fr/page/</loc>
     <lastmod>2016-01-12T21:00:29+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dancefactory.fr/tags/</loc>
     <priority>0</priority>
   </url>
   
